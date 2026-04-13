@@ -8,3 +8,6 @@ env/
 .env
 *.swp
 *.swo
+terraform.tar
+terraform_cp
+dive_*.deb
